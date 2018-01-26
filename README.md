@@ -2,7 +2,7 @@
 
 An Open-Source Repository to promote musical collaberation.
 - Currently powered by Sonic Pi
-     -More Languages to come!
+     - More Languages to come!
 - [Learn More](https://www.youtube.com/watch?v=ENfyOndcvP0)
 - [Download Sonic Pi](http://sonic-pi.net/#windows) to get involved
 
