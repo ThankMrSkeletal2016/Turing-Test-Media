@@ -6,6 +6,9 @@
 #"A b3 and a f#4"
 #"To be held for a long time"
 
+#More Info Here
+#https://en.wikipedia.org/wiki/Compositions_1960##7
+
 with_fx :reverb, room: 0.9 do
   with_synth :dark_ambience do
     with_fx :ixi_techno, phase_offset: 0.5, phase: 50 do
