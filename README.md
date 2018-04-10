@@ -17,9 +17,11 @@ An Open-Source Repository to promote musical collaberation.
 - Mr. Skeletal x Illest Preacha - Noise
     - Current Version : 5.0
 
+# Current Singles
+- Mr. Skeletal - Composition 1960 #7 V1.1
+
 # Open Snippets
-- None
-    - Post your unfinished snippets here for others to collaberate off of.
+-Hip Hop Beat - Mr. Skeletal
 
 # Discord Link
 https://discord.gg/Q7ab6wn
