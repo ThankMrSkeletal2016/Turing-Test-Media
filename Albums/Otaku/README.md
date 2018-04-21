@@ -20,8 +20,8 @@ The First Open Source Vaporwave Album
 # Files:
 Code
   - Live Files - Templates to Live Code the 愚 O か T 悲 A な K 馬 U 鹿 set
-    - Otaku_Start_Up - Initial blank live template
-    - Otaku_Start_Up(Skip Intro) - Intial Template w/ Comments and Setlist
+    - Otaku_Start_Up - Initial blank live template (New Template)
+    - Otaku_Start_Up(Skip Intro) - Intial Template w/ Comments and Setlist(Old Template)
   - NonLive Files - Individual Song Files
     - The only change you need to do is to set the directory to your sample folder
   - Whole Album.rb

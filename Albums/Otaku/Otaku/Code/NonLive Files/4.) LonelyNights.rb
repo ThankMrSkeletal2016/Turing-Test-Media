@@ -8,12 +8,12 @@
 #*******
 
 ############Change To Your Sample Directory, or you will cause an error#########
-repoLocation = "C:/Users/MrSkeletal/Documents/GitHub/RonovoRonove/Otaku/"
-ln0 = repoLocation + "/Samples/LonelyNights/ln0.wav"
-ln1 = repoLocation + "/Samples/LonelyNights/ln1.wav"
-ln2 = repoLocation + "/Samples/LonelyNights/ln2.wav"
-ln3 = repoLocation + "/Samples/LonelyNights/ln3.wav"
-ln4 = repoLocation + "/Samples/LonelyNights/ln4.wav"
+repoLocation = "C:/Users/Pc/Documents/GitHub/Turing-Test-Media/Albums/Otaku/Otaku/Samples"
+ln0 = repoLocation + "/LonelyNights/ln0.wav"
+ln1 = repoLocation + "/LonelyNights/ln1.wav"
+ln2 = repoLocation + "/LonelyNights/ln2.wav"
+ln3 = repoLocation + "/LonelyNights/ln3.wav"
+ln4 = repoLocation + "/LonelyNights/ln4.wav"
 
 with_fx :reverb, room: 0.5 do
   1.times do #Drum roll intro

@@ -6,9 +6,8 @@
 #Track Number : 3
 #Remix by: ?
 #*******
-
-repoLocation = "C:/Users/MrSkeletal/Documents/GitHub/RonovoRonove/Otaku"
-w = repoLocation + "/Samples/WickedCity/wc1.wav"
+repoLocation = "C:/Users/Pc/Documents/GitHub/Turing-Test-Media/Albums/Otaku/Otaku/Samples"
+w = repoLocation + "/WickedCity/wc1.wav"
 
 in_thread do
   with_fx :distortion do
