@@ -8,8 +8,8 @@
 #*******
 
 ############Change To Your Sample Directory, or you will cause an error#########
-repoLocation = "C:/Users/MrSkeletal/Documents/GitHub"
-intro = repoLocation + "/RonovoRonove/Otaku/Samples/Intro/intro.wav"
+repoLocation = "C:/Users/Pc/Documents/GitHub/Turing-Test-Media/Albums/Otaku/Otaku/Samples"
+intro = repoLocation + "/Samples/Intro/intro.wav"
 
 with_fx :reverb, room: 0.5 do
   1.times do

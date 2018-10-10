@@ -8,12 +8,12 @@
 #*******
 
 ############Change To Your Sample Directory, or you will cause an error#########
-repoLocation = "C:/Users/MrSkeletal/Documents/GitHub/RonovoRonove/Otaku/"
-p0 = repoLocation + "/Samples/Professional/p0.wav"
-p1 = repoLocation + "/Samples/Professional/p1.wav"
-p2 = repoLocation + "/Samples/Professional/p2.wav"
-p3 = repoLocation + "/Samples/Professional/p3.wav"
-p4 = repoLocation + "/Samples/Professional/p4.wav"
+repoLocation = "C:/Users/Pc/Documents/GitHub/Turing-Test-Media/Albums/Otaku/Otaku/Samples"
+p0 = repoLocation + "/Professional/p0.wav"
+p1 = repoLocation + "/Professional/p1.wav"
+p2 = repoLocation + "/Professional/p2.wav"
+p3 = repoLocation + "/Professional/p3.wav"
+p4 = repoLocation + "/Professional/p4.wav"
 
 with_fx :reverb, room: 0.5 do
   1.times do #Drum roll intro

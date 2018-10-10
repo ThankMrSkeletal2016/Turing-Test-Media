@@ -8,12 +8,12 @@
 #*******
 
 ############Change To Your Sample Directory, or you will cause an error#########
-repoLocation = "C:/Users/MrSkeletal/Documents/GitHub/RonovoRonove/Otaku/"
-gh0 = repoLocation + "/Samples/GhostHunter/gh0.wav"
-gh1 = repoLocation + "/Samples/GhostHunter/gh1.wav"
-gh2 = repoLocation + "/Samples/GhostHunter/gh2.wav"
-gh3 = repoLocation + "/Samples/GhostHunter/gh3.wav"
-gh4 = repoLocation + "/Samples/GhostHunter/gh4.wav"
+repoLocation = "C:/Users/Pc/Documents/GitHub/Turing-Test-Media/Albums/Otaku/Otaku/Samples"
+gh0 = repoLocation + "/GhostHunter/gh0.wav"
+gh1 = repoLocation + "/GhostHunter/gh1.wav"
+gh2 = repoLocation + "/GhostHunter/gh2.wav"
+gh3 = repoLocation + "/GhostHunter/gh3.wav"
+gh4 = repoLocation + "/GhostHunter/gh4.wav"
 
 with_fx :reverb, room: 1 do
   1.times do #Intro

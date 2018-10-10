@@ -8,10 +8,10 @@
 #*******
 
 ############Change To Your Sample Directory, or you will cause an error#########
-repoLocation = "C:/Users/MrSkeletal/Documents/GitHub/RonovoRonove/Otaku"
-w1 = repoLocation + "/Samples/WickedCity/wc1.wav"
-w2 = repoLocation + "/Samples/WickedCity/wc2.wav"
-w3 = repoLocation + "/Samples/WickedCity/wc3.wav"
+repoLocation = "C:/Users/Pc/Documents/GitHub/Turing-Test-Media/Albums/Otaku/Otaku/Samples"
+w1 = repoLocation + "/WickedCity/wc1.wav"
+w2 = repoLocation + "/WickedCity/wc2.wav"
+w3 = repoLocation + "/WickedCity/wc3.wav"
 
 with_fx :reverb, room: 1 do
   1.times do #Next 4 are the Intro with a High Pass Filter and Volume Automation

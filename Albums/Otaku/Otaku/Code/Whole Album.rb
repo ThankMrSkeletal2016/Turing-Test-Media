@@ -7,8 +7,8 @@
 #*******
 
 ############Change To Your Sample Directory, or you will cause an error#########
-repoLocation = "C:/Users/MrSkeletal/Documents/GitHub"
-intro = repoLocation + "/RonovoRonove/Otaku/Samples/Intro/intro.wav"
+repoLocation = "C:/Users/Pc/Documents/GitHub/Turing-Test-Media/Albums/Otaku/Otaku/Samples"
+intro = repoLocation + "/Intro/intro.wav"
 #Introduction
 with_fx :reverb, room: 0.5 do
   1.times do
@@ -17,9 +17,9 @@ with_fx :reverb, room: 0.5 do
   end
 end
 #Otaku
-oM = repoLocation + "/RonovoRonove/Otaku/Samples/Otaku/o0.wav"
-o2 = repoLocation + "/RonovoRonove/Otaku/Samples/Otaku/o2.wav"
-o1 = repoLocation + "/RonovoRonove/Otaku/Samples/Otaku/o1.wav"
+oM = repoLocation + "/Otaku/o0.wav"
+o2 = repoLocation + "/Otaku/o2.wav"
+o1 = repoLocation + "/Otaku/o1.wav"
 
 with_fx :reverb, room: 0.5 do
   1.times do
@@ -33,9 +33,9 @@ with_fx :reverb, room: 0.5 do
   end
 end
 #Wicked City
-w1 = repoLocation + "/RonovoRonove/Otaku/Samples/WickedCity/wc1.wav"
-w2 = repoLocation + "/RonovoRonove/Otaku/Samples/WickedCity/wc2.wav"
-w3 = repoLocation + "/RonovoRonove/Otaku/Samples/WickedCity/wc3.wav"
+w1 = repoLocation + "/WickedCity/wc1.wav"
+w2 = repoLocation + "/WickedCity/wc2.wav"
+w3 = repoLocation + "/WickedCity/wc3.wav"
 
 with_fx :reverb, room: 1 do
   1.times do #Next 4 are the Intro with a High Pass Filter and Volume Automation
@@ -80,11 +80,11 @@ with_fx :reverb, room: 1 do
   end
 end
 #Lonely Nights
-ln0 = repoLocation + "/RonovoRonove/Otaku/Samples/LonelyNights/ln0.wav"
-ln1 = repoLocation + "/RonovoRonove/Otaku/Samples/LonelyNights/ln1.wav"
-ln2 = repoLocation + "/RonovoRonove/Otaku/Samples/LonelyNights/ln2.wav"
-ln3 = repoLocation + "/RonovoRonove/Otaku/Samples/LonelyNights/ln3.wav"
-ln4 = repoLocation + "/RonovoRonove/Otaku/Samples/LonelyNights/ln4.wav"
+ln0 = repoLocation + "/LonelyNights/ln0.wav"
+ln1 = repoLocation + "/LonelyNights/ln1.wav"
+ln2 = repoLocation + "/LonelyNights/ln2.wav"
+ln3 = repoLocation + "/LonelyNights/ln3.wav"
+ln4 = repoLocation + "/LonelyNights/ln4.wav"
 
 with_fx :reverb, room: 0.5 do
   1.times do #Drum roll intro
@@ -127,7 +127,7 @@ end
 #Intermission
 #2 Minute Break Loop
 #Stretch Out For A Bit!
-inter = repoLocation + "/RonovoRonove/Otaku/Samples/Intermission/inter.wav"
+inter = repoLocation + "/Intermission/inter.wav"
 
 with_fx :reverb, room: 0.5 do
   1.times do
@@ -136,11 +136,11 @@ with_fx :reverb, room: 0.5 do
   end
 end
 #The Professional
-p0 = repoLocation + "/RonovoRonove/Otaku/Samples/Professional/p0.wav"
-p1 = repoLocation + "/RonovoRonove/Otaku/Samples/Professional/p1.wav"
-p2 = repoLocation + "/RonovoRonove/Otaku/Samples/Professional/p2.wav"
-p3 = repoLocation + "/RonovoRonove/Otaku/Samples/Professional/p3.wav"
-p4 = repoLocation + "/RonovoRonove/Otaku/Samples/Professional/p4.wav"
+p0 = repoLocation + "/Professional/p0.wav"
+p1 = repoLocation + "/Professional/p1.wav"
+p2 = repoLocation + "/Professional/p2.wav"
+p3 = repoLocation + "/Professional/p3.wav"
+p4 = repoLocation + "/Professional/p4.wav"
 
 with_fx :reverb, room: 0.5 do
   1.times do #Drum roll intro
@@ -173,11 +173,11 @@ with_fx :reverb, room: 0.5 do
   end
 end
 #Ghost Hunters
-gh0 = repoLocation + "/RonovoRonove/Otaku/Samples/GhostHunter/gh0.wav"
-gh1 = repoLocation + "/RonovoRonove/Otaku/Samples/GhostHunter/gh1.wav"
-gh2 = repoLocation + "/RonovoRonove/Otaku/Samples/GhostHunter/gh2.wav"
-gh3 = repoLocation + "/RonovoRonove/Otaku/Samples/GhostHunter/gh3.wav"
-gh4 = repoLocation + "/RonovoRonove/Otaku/Samples/GhostHunter/gh4.wav"
+gh0 = repoLocation + "/GhostHunter/gh0.wav"
+gh1 = repoLocation + "/GhostHunter/gh1.wav"
+gh2 = repoLocation + "/GhostHunter/gh2.wav"
+gh3 = repoLocation + "/GhostHunter/gh3.wav"
+gh4 = repoLocation + "/GhostHunter/gh4.wav"
 
 with_fx :reverb, room: 1 do
   1.times do #Intro
@@ -222,8 +222,8 @@ with_fx :reverb, room: 1 do
   end
 end
 #Too Late To Cry (Ford Loves Anime EP Version)
-t1 = repoLocation + "/RonovoRonove/Otaku/Samples/2Late2Cry/t1.wav"
-t2 = repoLocation + "/RonovoRonove/Otaku/Samples/2Late2Cry/t2.wav"
+t1 = repoLocation + "/2Late2Cry/t1.wav"
+t2 = repoLocation + "/2Late2Cry/t2.wav"
 
 with_fx :reverb, room: 0.5 do
   1.times do
@@ -236,7 +236,7 @@ with_fx :reverb, room: 0.5 do
   end
 end
 #Outro
-out = repoLocation + "/RonovoRonove/Otaku/Samples/Outro/out.wav"
+out = repoLocation + "/Outro/out.wav"
 
 with_fx :reverb, room: 0.5 do
   1.times do
