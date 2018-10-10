@@ -9,9 +9,13 @@ An Open-Source Repository to promote musical collaberation.
 # Current Artists
 - Mr. Skeletal AKA Ronovo Ronove
 - Illest Preacha
+- This Is What You Scan For
 
 # Current Releases
 - Ronovo Ronove - 愚 O か T 悲 A な K 馬 U 鹿 
+
+# WIP Releases
+- TIWYSF - Ghost in the Machine
 	
 # Current Collaberations
 - Mr. Skeletal x Illest Preacha - Noise
