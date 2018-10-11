@@ -2,11 +2,12 @@
 ##FIRST EXTRATONE SONG IN SONIC PI
 ##OVER 1000 BPM
 
-samplelocation = "C:/Users/Pc/Music/Gabber"
+##SET YOUR ROOT OR OR THE CODE WON'T WORK
+samplelocation = "*ROOT*/Turing-Test-Media/Singles/Ronovo Ronove/Mirror World (Extratone)"
 intro = samplelocation + "/intro.wav"
 laugh = samplelocation + "/laugh.wav"
 
-drumlocation = "C:/Users/Pc/Music/Gabber/Industrial_Waste_I/Engage Blue - Industrial Waste I"
+drumlocation = samplelocation + "/Industrial_Waste_I/Engage Blue - Industrial Waste I"
 kick1 = drumlocation + "/170bpm_Destructo Noctavia.wav"
 kick2 = drumlocation + "/170bpm_Precision Hardcore.wav"
 
