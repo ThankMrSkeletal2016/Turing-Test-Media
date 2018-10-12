@@ -1,3 +1,6 @@
+##Functions for Mirror World V2.0
+##MUST BE RUN BEFORE YOU CAN RUN CODE
+
 #Full Intro Method with Echo
 #Called Over the Beat Later in Song
 define :full do |n, m|
