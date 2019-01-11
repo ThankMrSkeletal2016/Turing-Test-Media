@@ -1,3 +1,5 @@
+![Album Cover](https://raw.githubusercontent.com/ThankMrSkeletal2016/Turing-Test-Media/master/Singles/Ronovo%20Ronove/Lonely%20Sunset/covers/Lonely%20Sunset%20Single.png)
+
 # Ronovo Ronove - ㄥㄖ几乇ㄥㄚ 丂ㄩ几丂乇ㄒ
 First Single off of O 病 T 飢 A 饉 K 戦 U 病 Vol. 2
 - Powered By Sonic PI
