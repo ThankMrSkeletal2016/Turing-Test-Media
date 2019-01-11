@@ -32,9 +32,12 @@ Pictures
 - After tracks are created, submit a pull request to the master branch for approval.
 
 Anime Sampled : Megazone 23
+
 Song : Lonely Sunset
 
 #Extra Links:
+
 [愚 O か T 悲 A な K 馬 U 鹿 Vol. 1 Visual Album](https://www.youtube.com/watch?v=ciTQcNkEKh4).
+
 [Ronovo's First Performance of the 愚 O か T 悲 A な K 馬 U 鹿 set](https://www.youtube.com/watch?v=7mQF21J6Uws).
 
