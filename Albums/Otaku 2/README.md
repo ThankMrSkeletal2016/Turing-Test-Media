@@ -1,3 +1,5 @@
+![Album Cover](https://f4.bcbits.com/img/a0926242023_16.jpg)
+
 # Ronovo Ronove - 愚 O か T 悲 A な K 馬 U 鹿 2
 My Second Sonic Pi Vaporwave Album
 - Powered By Sonic PI
