@@ -1,27 +1,26 @@
-# Ronovo Ronove - 愚 O か T 悲 A な K 馬 U 鹿 
-The First Open Source Vaporwave Album
+# Ronovo Ronove - 愚 O か T 悲 A な K 馬 U 鹿 2
+My Second Sonic Pi Vaporwave Album
 - Powered By Sonic PI
 - [Learn More](https://www.youtube.com/watch?v=ENfyOndcvP0)
 - [Download Sonic Pi](http://sonic-pi.net/#windows) to get involved
 
-[愚 O か T 悲 A な K 馬 U 鹿 Visual Album](https://www.youtube.com/watch?v=ciTQcNkEKh4).
+[Get The Album off Bandcamp!](https://ronovo.bandcamp.com/album/o-t-a-k-u-vol-2)
+
+[Listen to the Album on Soundcloud](https://soundcloud.com/ronovoronove/sets/o-t-a-k-u-2)
 
 # Tracklist:
-1. Introduction
-2. Otaku
-3. Wicked City
-4. Lonely Night
-5. Intermission
-6. The Professional
-7. Ghost Hunters
-8. Too Late To Cry(Ford Loves Anime EP Version)
-9. Outro
+1. Alone
+2. I Make Nightcore Now
+3. Why I Stay Inside
+4. Lonely Sunset
+5. No More Angels
+6. O U T R O
+7. Lisa Frank 420 (Macintosh Plus cover/remix)
 
 # Files:
 Code
-  - Live Files - Templates to Live Code the 愚 O か T 悲 A な K 馬 U 鹿 set
-    - Otaku_Start_Up - Initial blank live template (New Template)
-    - Otaku_Start_Up(Skip Intro) - Intial Template w/ Comments and Setlist(Old Template)
+  - Live Files - Templates to Live Code the 愚 O か T 悲 A な K 馬 U 鹿 2 set
+    - Under Construction
   - NonLive Files - Individual Song Files
     - The only change you need to do is to set the directory to your sample folder
   - Whole Album.rb
@@ -29,17 +28,18 @@ Code
     - Copy and paste into sonic pi, change sample directory, then hit play.
 
 Samples
-  - Includes a folder for each song.
-  - All Samples edited by Ronovo
-	
+  - otaku folder
+    - Samples for the spoken word parts.
+  - Since all cutting is done in code, You will have to provide your own sample for the rest.
+    - The name of the song sampled is in the code, for easy reference.
+    - Feel free to message me if you have any issues.
+
 # To Remix
 - Message ThankMrSkeletal2016, and be added as a Collaborator
 - Create Your Own Branch
 - After tracks are created, submit a pull request to the master branch for approval.
 
-[Ronovo's First Performance of the 愚 O か T 悲 A な K 馬 U 鹿 set](https://www.youtube.com/watch?v=7mQF21J6Uws).
 
-[The Professional | First Single from the 愚 O か T 悲 A な K 馬 U 鹿 Album](https://www.youtube.com/watch?v=DL77ABvgmuY)
 
 
 	
