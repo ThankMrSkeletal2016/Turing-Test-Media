@@ -8,6 +8,8 @@ My First Sonic Pi Weatherwave Album
 
 [Get The Album off Bandcamp!](https://ronovo.bandcamp.com/album/weatherwave-ep)
 
+[Check out r/weatherwave](https://old.reddit.com/r/weatherwave/)
+
 [Listen to my last EP on Soundcloud](https://soundcloud.com/ronovoronove/sets/o-t-a-k-u-2)
 
 # Tracklist:
