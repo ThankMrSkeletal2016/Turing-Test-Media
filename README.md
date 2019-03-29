@@ -1,7 +1,3 @@
-##READ ME IS OUT OF DATE. WILL UPDATE THIS WEEKEND. SORRY IN ADVANCE! :D
-
-##THANK YOU FOR COMING TO MY PAGE!!!!
-
 # Turing-Test-Media
 
 An Open-Source Repository to promote musical collaberation.
