@@ -17,16 +17,26 @@ An Open-Source Repository to promote musical collaberation.
 
 # Current Releases
 - Ronovo Ronove - 愚 O か T 悲 A な K 馬 U 鹿 
+- Ronovo Ronove - 愚 O か T 悲 A な K 馬 U 鹿 2
+- RonovoxTIWYSF - Weatherwave EP
+- RonovoxTIWYSF - Perfect Blue EP
 
 # WIP Releases
-- TIWYSF - Ghost in the Machine
+- TIWYSF - Ghost in the Machine (Harsh Noise)
+- TIWYSF - Ghost Stories EP (Extratone/Speedcore)
 	
 # Current Collaberations
 - Mr. Skeletal x Illest Preacha - Noise
     - Current Version : 5.0
 
 # Current Singles
-- Mr. Skeletal - Composition 1960 #7 V1.1
+- Mr. Skeletal(Ronovo Ronove) - Composition 1960 #7 V1.1
+- Halloween Theme (Originally by John Carpenter, adapted for Sonic Pi by Ronovo Ronove)
+- Ronovo Ronove - End of Life (Lo-Fi Beat)
+- Ronovo Ronove - Lonely Sunset (Taken from 愚 O か T 悲 A な K 馬 U 鹿 2)
+- This Is What You Scan For - Random Sonic Pi Drones
+- This Is What You Scan For - Concerto for Pi #1
+- Ronovo Ronove - Mirror World (Extra Tone)
 
 # Open Snippets
 -Hip Hop Beat - Mr. Skeletal
