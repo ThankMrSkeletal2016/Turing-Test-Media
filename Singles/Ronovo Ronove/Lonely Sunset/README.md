@@ -2,6 +2,7 @@
 
 # Ronovo Ronove - ㄥㄖ几乇ㄥㄚ 丂ㄩ几丂乇ㄒ
 First Single off of O 病 T 飢 A 饉 K 戦 U 病 Vol. 2
+- [Video of Song](https://www.youtube.com/watch?v=GWC3x-Rb-e0)
 - Powered By Sonic PI
 - [Learn More](https://www.youtube.com/watch?v=ENfyOndcvP0)
 - [Download Sonic Pi](http://sonic-pi.net/#windows) to get involved
